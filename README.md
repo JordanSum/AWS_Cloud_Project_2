@@ -57,7 +57,7 @@ ACM is used to manage SSL/TLS certificates for securing your application. This p
  - Variables.tf file will need to be created for this module.
 
    <span style="font-size:0.5em;"> - aws_domain_name = (example.com)</span>
-   - alt_aws_domain_name = (www.example.com)
+   <span stayle="font-size:0.5em;"> - alt_aws_domain_name = (www.example.com)</span>
 
 ### Codedeploy
 

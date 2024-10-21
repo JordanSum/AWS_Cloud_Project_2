@@ -1,4 +1,4 @@
-# Terraform AWS Infrastructure
+# Terraform AWS Infrastructure Using VPC, ACM, CodePipeline, EC2, and IAM.
 
 This Terraform project is designed to create and manage a comprehensive AWS infrastructure. The infrastructure components include a VPC, EC2 instances, an Application Load Balancer (ALB), security groups, ACM certificates, CodeDeploy for continuous deployment, and other related resources.
 
